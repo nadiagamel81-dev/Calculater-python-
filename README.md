@@ -1,2 +1,3 @@
 # Calculater-python-
-My first project by python , it's very simple code and very simple to use 
+it's useful calculater that can sum , subtract , multiply and divide 
+you can use it easily 
